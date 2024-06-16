@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord import app_commands
 import json
 
-TOKEN = "MTE3MDEwODgxNDE5NzAwNjQ0OQ.G0yCDO.3ojomFVf1ijSW5AL_vEko_HWyv5kVK1Xf6eXSY"
+TOKEN = "token-goes-here"
 DIRECTORY = "C:/Users/MatthewWade/OneDrive - St Edmunds School/Desktop/Apollo/Aurora Industries/"
 
 client = discord.Client(intents=discord.Intents.all())
